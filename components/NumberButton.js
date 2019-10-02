@@ -6,7 +6,7 @@ import {
   Dimensions } from 'react-native';
 
 const {height,width} = Dimensions.get('window');
-
+// Creating NumberButton class
 class NumberButton extends React.Component{
   constructor(props)
   {
