@@ -1,3 +1,4 @@
+// importing React library
 import React from 'react';
 import { StyleSheet, Text, View,Dimensions } from 'react-native';
 import { createAppContainer } from 'react-navigation';
