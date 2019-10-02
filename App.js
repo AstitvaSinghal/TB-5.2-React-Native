@@ -8,7 +8,7 @@ import History from './components/History';
 import NumberButtonsArray from './components/NumberButtonsArray_1';
 import Output from './components/Output';
 const {height,width} = Dimensions.get('window');
-
+// importing SQLite library 
 import * as SQLite from 'expo-sqlite';
 
 const database = SQLite.openDatabase('calculator');
