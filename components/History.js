@@ -10,7 +10,7 @@ import {
 
 import * as SQLite from 'expo-sqlite';
 const {height,width}=Dimensions.get('window');
-
+//creating class History
 
 class History extends React.Component {
 
